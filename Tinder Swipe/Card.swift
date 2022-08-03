@@ -24,12 +24,12 @@ struct Card: Identifiable {
     
     static var data: [Card] {
         [
-            Card(name: "Rosie", imageName: "p0", age: 21, bio: "Insta - roooox 💋"),
-            Card(name: "Betty", imageName: "p1", age: 23, bio: "Like exercising, going out, pub, working 🍻"),
-            Card(name: "Abigail", imageName: "p2", age: 26, bio: "hi, let's be friends"),
-            Card(name: "Zoé", imageName: "p3", age: 20, bio: "Law grad"),
-            Card(name: "Tilly", imageName: "p4", age: 21, bio: "Follow me on IG"),
-            Card(name: "Penny", imageName: "p5", age: 24, bio: "J'aime la vie et le vin 🍷"),
+            Card(name: "Rosie", imageName: "p0", age: 4, bio: "Insta - roooox 💋"),
+            Card(name: "Betty", imageName: "p1", age: 10, bio: "Like exercising, going out, pub, working "),
+            Card(name: "Abigail", imageName: "p2", age: 11, bio: "hi, let's be friends"),
+            Card(name: "Zoé", imageName: "p3", age: 6, bio: "friendly"),
+            Card(name: "Tilly", imageName: "p4", age: 7, bio: "Follow me on IG"),
+            Card(name: "Penny", imageName: "p5", age: 8, bio: "I love walks by the park"),
         ]
     }
     
